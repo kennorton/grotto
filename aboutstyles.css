@@ -1,0 +1,50 @@
+  html {
+    background-color: black;
+  }
+
+  .navbar {
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .navbar a:hover {
+    color: #546fca;
+  }
+
+  h1 {
+    margin: 10px 0;
+    padding: 5px;
+    white-space: wrap;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    font-family: Economica, sans-serif;
+  }
+
+  h2 {
+    margin: 10px 0;
+    padding: 5px;
+    white-space: wrap;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    font-family: Economica, sans-serif;
+  }
+  p, ul, li {
+    margin: 10px 0;
+    padding: 5px;
+    white-space: wrap;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 1;
+    color: white;
+    font-family: Economica, sans-serif;
+    text-decoration: none;
+  }
